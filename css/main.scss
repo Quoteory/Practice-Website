@@ -51,15 +51,11 @@ h2 {
     }
 }
 
-.column-s1 {
+.column-size1 {
     width: 25%;
 }
 
-.column-s2 {
-    width: 40%;
-}
-
-.column-s3 {
+.column-size2 {
     width: 65%;
 }
 
@@ -83,9 +79,8 @@ img {
         margin: 0 0 .7em 0;
     }
 
-    .column-s1,
-    .column-s2,
-    .column-s3 {
+    .column-size1,
+    .column-size2 {
         width: 100%;
     }
 
